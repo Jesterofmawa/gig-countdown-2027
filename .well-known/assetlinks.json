@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.jesterofmawa.twa",
+        "sha256_cert_fingerprints": ["BC:92:A7:8C:62:2A:87:2F:27:40:40:9B:DA:00:57:67:70:06:35:10:74:AD:26:EA:71:A9:1B:C8:DE:B3:1E:34"]
+      }
+    }]
